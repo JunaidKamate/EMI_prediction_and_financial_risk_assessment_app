@@ -1,6 +1,6 @@
 ---
 
-## EMIPredict Pro — EMI & Financial Risk Assessment
+# EMIPredict Pro — EMI & Financial Risk Assessment
 
 ---
 
