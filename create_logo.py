@@ -23,3 +23,4 @@ draw.text(position, text, fill="black", font=font)
 img.save("assets/logo.png")
 
 print("Logo successfully created at assets/logo.png")
+
