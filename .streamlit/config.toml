@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0e52a0"        # deep blue (matches the logo)
+backgroundColor = "#F8FAFF"     # very light blue/white
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0F1724"           # dark text
+font = "sans serif"
