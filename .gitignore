@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache and build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Streamlit / logs
+.streamlit/
+
+# MLflow artifacts (don't commit big tracking DBs or runs)
+mlruns/
+mlflow.db
+
+# IDEs
+.vscode/
+.idea/
